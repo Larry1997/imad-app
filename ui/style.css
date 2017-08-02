@@ -4,7 +4,8 @@ body {
     margin-top: 75px;
 }
 
-.center {
+.center,#cute1
+{
     text-align: center;
     color: white;
 }
