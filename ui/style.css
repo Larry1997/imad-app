@@ -20,10 +20,15 @@ body {
 .img-medium {
     height: 200px;
 }
+.puppy
+{
+    border-radius:50%;
+    height:200px;
+}
 #rcorner1 {
     border-radius: 50%;
 }
-#img1, #img2,#img3,#img4,#img5,#img6,#img7,#img8
+#img1, #img2,#img3,#img4,#img5,#img6,#img7
 {
     border-radius: 50%;
     height: 200px;
