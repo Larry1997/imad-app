@@ -38,6 +38,9 @@ a {
      font-size: 11px;
 
 }
+li:not(:last-child) {
+    margin-bottom: 7px;
+}
 
 li:not(:last-child) {
     margin-bottom: 5px;
