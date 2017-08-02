@@ -4,7 +4,7 @@ body {
     margin-top: 75px;
 }
 
-.center,#cute1
+.center
 {
     text-align: center;
     color: white;
@@ -34,6 +34,7 @@ body {
     border-radius: 50%;
     height: 200px;
 }
-#cute {
+#cute,#cute1
+{
     color: white ;
 }
