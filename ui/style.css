@@ -23,7 +23,7 @@ body {
 #rcorner1 {
     border-radius: 50%;
 }
-#img1, #img2 {
+#img1, #img2,#img3,#img4 {
     border-radius: 50%;
     height: 200px;
 }
