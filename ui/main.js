@@ -3,6 +3,7 @@ console.log('Loaded!');
 var img=document.getElementById('rcorner1');
 
 img.onclick= function() {
-    img.style.marginLeft='100px';
+   document.getElementById('rcorner1').style.position="absolute";
+document.getElementById('rcorner1').style.left="0";
     
 };
