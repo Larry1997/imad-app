@@ -3,7 +3,7 @@ console.log('Loaded!');
 var img=document.getElementById('rcorner1');
 function moveRight(){
     marginLeft+=10;
-    img.style.marginLeft= parginLeft + 'px';
+    img.style.marginLeft= marginLeft + 'px';
 }
 
 img.onclick=function(){
